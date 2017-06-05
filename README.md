@@ -1,6 +1,8 @@
 # Cryptocurrency-Universal-API
 Track multiple cryptocurrency statistics in live time without the need of multiple browser tabs.
 
+![Alt text](https://github.com/MTS11648/Cryptocurrency-Universal-API/blob/master/Universal%20API/Screenshots/Screenshot.PNG "Main User Interface Screenshot")
+
 # What is it?
 The Cryptocurrency Universal API allows you to track multiple cryptocurrency prices/percent gains all in realtime.
 
