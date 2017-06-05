@@ -14,6 +14,9 @@ I found myself wasting time opening several browser tabs and refreshing them eve
 - Value colors change depending on whether they went down or not.
 - Small, easy to understand windows.
 
+# Download
+You can download the latest stable version of the program here: https://www.dropbox.com/s/51ogs4rm1prl5ci/Cryptocurrency%20Universal%20API%20v1.0.zip?dl=0
+
 # Donations
 If you would like to throw me a Dogecoin/Bitcoin/Litecoin or two for my hard work, I'd really appreciate it!
 - Dogecoin address: A24NPMvzGggWX4SX7xKQAEcEW3JDLKTCAJ
