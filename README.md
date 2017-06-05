@@ -16,6 +16,6 @@ I found myself wasting time opening several browser tabs and refreshing them eve
 
 # Donations
 If you would like to throw me a Dogecoin/Bitcoin/Litecoin or two for my hard work, I'd really appreciate it!
-Dogecoin address: A24NPMvzGggWX4SX7xKQAEcEW3JDLKTCAJ
-Bitcoin address: 3AkWwh8G38t6ATfMeVT9PoXrxyDF2xv7Ff
-Litecoin address: 3HJKw3A1uPkTEDiuhTM29qjyvzi4KDWhqk
+- Dogecoin address: A24NPMvzGggWX4SX7xKQAEcEW3JDLKTCAJ
+- Bitcoin address: 3AkWwh8G38t6ATfMeVT9PoXrxyDF2xv7Ff
+- Litecoin address: 3HJKw3A1uPkTEDiuhTM29qjyvzi4KDWhqk
