@@ -1,0 +1,12 @@
+c:\users\donut\documents\visual studio 2017\Projects\Universal API\Universal API\bin\Release\Universal API.exe.config
+c:\users\donut\documents\visual studio 2017\Projects\Universal API\Universal API\bin\Release\Universal API.exe
+c:\users\donut\documents\visual studio 2017\Projects\Universal API\Universal API\bin\Release\Universal API.pdb
+c:\users\donut\documents\visual studio 2017\Projects\Universal API\Universal API\bin\Release\Newtonsoft.Json.dll
+c:\users\donut\documents\visual studio 2017\Projects\Universal API\Universal API\bin\Release\Newtonsoft.Json.xml
+c:\users\donut\documents\visual studio 2017\Projects\Universal API\Universal API\obj\Release\Universal_API.Currency.resources
+c:\users\donut\documents\visual studio 2017\Projects\Universal API\Universal API\obj\Release\Universal_API.Selection.resources
+c:\users\donut\documents\visual studio 2017\Projects\Universal API\Universal API\obj\Release\Universal_API.Properties.Resources.resources
+c:\users\donut\documents\visual studio 2017\Projects\Universal API\Universal API\obj\Release\Universal API.csproj.GenerateResource.Cache
+c:\users\donut\documents\visual studio 2017\Projects\Universal API\Universal API\obj\Release\Universal API.exe
+c:\users\donut\documents\visual studio 2017\Projects\Universal API\Universal API\obj\Release\Universal API.pdb
+C:\Users\donut\documents\visual studio 2017\Projects\Universal API\Universal API\obj\Release\Universal API.csprojResolveAssemblyReference.cache
