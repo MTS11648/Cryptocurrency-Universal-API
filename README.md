@@ -7,7 +7,7 @@ Track multiple cryptocurrency statistics in live time without the need of multip
 The Cryptocurrency Universal API allows you to track multiple cryptocurrency prices/percent gains all in realtime.
 
 # Why?
-I found myself wasting time opening several browser tabs and refreshing them every now and then just to see if the currences I owned went up in price or not. This program simplifies the process by going out to the Internet for you! It will retrieve the latest data for the currency(ies) you've selected every five seconds. 
+I found myself wasting time opening several browser tabs and refreshing them every now and then just to see if the currencies I owned went up in price or not. This program simplifies the process by going out to the Internet for you! It will retrieve the latest data for the currency(ies) you've selected every five seconds. 
 
 # Features
 - Track any recognized cryptocurrency in realtime.
